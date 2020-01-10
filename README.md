@@ -6,3 +6,4 @@
 - [013 roman to integer](./013)
 - [014 longest common prefix](./014)
 - [020 valid parentheses](./020)
+- [021 merge two sorted lists](./021)
