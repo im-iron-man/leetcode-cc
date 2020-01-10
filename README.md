@@ -10,4 +10,5 @@
 - [026 remove duplicates from sorted array](./026)
 - [027 remove element](./027)
 - [028 implement strstr](./028)
-- [035 search insert position](./035) 
+- [035 search insert position](./035)
+- [038 count and say](./038)
