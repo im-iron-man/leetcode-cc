@@ -8,3 +8,4 @@
 - [020 valid parentheses](./020)
 - [021 merge two sorted lists](./021)
 - [026 remove duplicates from sorted array](./026)
+- [027 remove element](./027)
