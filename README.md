@@ -7,3 +7,4 @@
 - [014 longest common prefix](./014)
 - [020 valid parentheses](./020)
 - [021 merge two sorted lists](./021)
+- [026 remove duplicates from sorted array](./026)
