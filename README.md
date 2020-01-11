@@ -16,3 +16,5 @@
 - [058 length of last word](./058)
 - [066 plus one](./066)
 - [067 add binary](./067)
+- [069 sqrt(x)](./069)
+- [070 climbing stairs](./070)
