@@ -13,3 +13,5 @@
 - [035 search insert position](./035)
 - [038 count and say](./038)
 - [053 maximum subarray](./053)
+- [058 length of last word](./058)
+- [066 plus one](./066)
