@@ -20,3 +20,4 @@
 - [070 climbing stairs](./070)
 - [083 remove duplicates from sorted list](./083)
 - [088 merge sorted array](./088)
+- [100 same tree](./100)
