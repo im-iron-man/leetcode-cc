@@ -19,3 +19,4 @@
 - [069 sqrt(x)](./069)
 - [070 climbing stairs](./070)
 - [083 remove duplicates from sorted list](./083)
+- [088 merge sorted array](./088)
