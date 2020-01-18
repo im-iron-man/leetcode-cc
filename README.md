@@ -26,4 +26,5 @@
 - [107 binary tree level order traversal II](./107)
 - [108 convert sorted array to binary search tree](./108)
 - [110 balanced binary tree](./110)
-- [111 minimum depth of binary tree](./111) 
+- [111 minimum depth of binary tree](./111)
+- [112 path sum](./112)
