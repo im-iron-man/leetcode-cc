@@ -30,3 +30,4 @@
 - [112 path sum](./112)
 - [118 pascal's triangle](./118)
 - [119 pascal's triangle II](./119)
+- [121 best time to buy and sell stock](./121)
