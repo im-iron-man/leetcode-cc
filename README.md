@@ -33,3 +33,4 @@
 - [121 best time to buy and sell stock](./121)
 - [122 best time to buy and sell stock II](./122)
 - [125 valid palindrome](./125)
+- [136 single number](./136)
