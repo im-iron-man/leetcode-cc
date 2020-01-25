@@ -35,3 +35,4 @@
 - [125 valid palindrome](./125)
 - [136 single number](./136)
 - [141 linked list cycle](./141)
+- [155 min stack](./155)
