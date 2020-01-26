@@ -39,3 +39,4 @@
 - [160 intersection of two linked lists](./160)
 - [167 two sum II - input array is sorted](./167)
 - [168 excel sheet column title](./168)
+- [169 majority element](./169)
