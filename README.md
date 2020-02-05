@@ -43,3 +43,4 @@
 - [171 excel sheet column number](./171)
 - [172 factorial trailing zeros](./172)
 - [189 rotate array](./189)
+- [190 reverse bits](./190)
