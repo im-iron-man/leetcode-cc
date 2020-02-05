@@ -44,3 +44,4 @@
 - [172 factorial trailing zeros](./172)
 - [189 rotate array](./189)
 - [190 reverse bits](./190)
+- [191 number of 1 bits](./191)
